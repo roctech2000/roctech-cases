@@ -1,3 +1,13 @@
+---
+title: Technical Notes
+type: topic
+section: technical
+summary: "Deep notes on vacuum tables, 5-axis heads, tube laser cutting, and common pitfalls."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Technical Notes
 
 The engineering points that actually come up when someone's spec'ing a machine. Short and to the point.
