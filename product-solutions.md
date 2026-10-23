@@ -1,3 +1,13 @@
+---
+title: "Product & Solution Map"
+type: topic
+section: products
+summary: "13 product lines (CNC routers, fibre lasers, sheet-and-tube, plasma, HDPE lines) in a comparison table."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Product & Solution Map
 
 Every product line ROCTECH builds, the models customers actually received, and what each one is for. Laser models carry the ROCLAS name.
