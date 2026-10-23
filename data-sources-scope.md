@@ -1,3 +1,13 @@
+---
+title: "Data Sources & Scope"
+type: topic
+section: data
+summary: "Where the case data comes from, what is verified, and known gaps / caveats."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Sources & Gaps
 
 Where this knowledge base came from, what's solid, and what's still missing.
