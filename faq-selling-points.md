@@ -1,3 +1,13 @@
+---
+title: "Selling Points & FAQ"
+type: topic
+section: faq
+summary: Quantified selling points and frequently asked questions with evidence from real installs.
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Selling Points & Real Buying Scenarios
 
 The numbers ROCTECH customers actually quote, plus the buying questions that come up most.
