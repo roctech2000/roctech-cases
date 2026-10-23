@@ -1,3 +1,21 @@
+---
+title: 6000W Fibre Laser for a Mexican Metal Fabrication Shop
+type: case
+country: Mexico
+country_code: MX
+region: North America
+category: metal-laser
+industry: Metal fabrication
+customer: "Metal fabrication shop, Mexico"
+product: "6000W fibre laser, 1500 x 3000 mm"
+year: ""
+tags: [Laser 6000W, Medium/thick plate]
+outcome: "Faster on thick plate, no extra labour"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇲🇽
 
 ## 6000W Fibre Laser for a Mexican Metal Fabrication Shop
