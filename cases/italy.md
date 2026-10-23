@@ -1,3 +1,21 @@
+---
+title: "RCL3015-3000W with Cover and Push-Pull Table: An Italian Sheet-Metal Shop"
+type: case
+country: Italy
+country_code: IT
+region: Europe
+category: metal-laser
+industry: "Sheet-metal, industrial / architectural"
+customer: "Sheet-metal fabrication shop, Italy"
+product: RCL3015-3000W with full enclosure and push-pull table
+year: ""
+tags: [Laser 3000W, Full enclosure, FDA / CE]
+outcome: "Fixed speed, scrap, and EU compliance issues"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇮🇹
 
 ## RCL3015-3000W with Cover and Push-Pull Table: An Italian Sheet-Metal Shop
