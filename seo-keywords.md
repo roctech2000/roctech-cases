@@ -1,3 +1,13 @@
+---
+title: "SEO & Ad Keywords"
+type: topic
+section: seo
+summary: Target keywords for ads and SEO across markets and product categories.
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Buying / SEO Keywords
 
 Keyword templates pulled from the local "CNC router buying keywords" sheet. Use them for ad groups, landing pages, and content ideas.
