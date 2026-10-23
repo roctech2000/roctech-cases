@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roctech2000.github.io/roctech-cases/sitemap.xml
