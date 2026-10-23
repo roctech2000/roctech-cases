@@ -1,3 +1,21 @@
+---
+title: "RCL3015-3000W: How a Malaysian Elevator Fabricator Left Plasma Behind"
+type: case
+country: Malaysia
+country_code: MY
+region: Asia
+category: metal-laser
+industry: Elevator sheet-metal
+customer: "Tony, elevator sheet-metal factory, Malaysia"
+product: RCL3015-3000W fibre laser
+year: ""
+tags: [Laser 3000W, Replaced plasma, Higher output]
+outcome: "Dropped plasma; ~80% less polishing, 80+ sets/day"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇲🇾
 
 ## RCL3015-3000W: How a Malaysian Elevator Fabricator Left Plasma Behind
