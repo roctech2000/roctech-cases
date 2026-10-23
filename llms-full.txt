@@ -1,0 +1,1522 @@
+ROCTECH Brand Case Knowledge Base — full content dump for LLM ingestion.
+Generated 2026-10-23. License MIT.
+
+
+===== FILE: README.md =====
+
+---
+title: ROCTECH Brand Case Knowledge Base
+type: topic
+section: home
+summary: "Home page: what the knowledge base is, key numbers, and navigation to every topic and case."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# ROCTECH Case Knowledge Base
+
+Real customer cases, application solutions, and hard selling points for ROCTECH (Roctech Machinery Co., Ltd) CNC routers and ROCLAS fibre lasers. Compiled from roc-tech.com and the local "若泰机器资料" archive. Oct 2026.
+
+This is a working knowledge base, not a brochure. It pulls together the things sales and support actually need: who the customers are, what machine they bought, what problem they had, and what changed after. The 12 customer cases are kept in their original wording, with a short ROCTECH note added to each. The rest is arranged so you can find a proof point fast.
+
+## What's inside
+
+- [Company Profile](company-profile.md) — What ROCTECH makes, certifications, contact
+- [Product & Solution Map](product-solutions.md) — 13 product lines mapped to real models
+- [Industry Solutions](application-industries.md) — 8 industries, each tied to a real case
+- [Customer Cases](cases/) — 12 named customers across 12 countries
+- [Selling Points & FAQ](faq-selling-points.md) — Quantified proof: accuracy, savings, uptime
+- [Buying / SEO Keywords](seo-keywords.md) — Keyword templates for ads and landing pages
+- [Technical Notes](technical-notes.md) — Vacuum tables, 5-axis rigidity, tube lasers
+- [Sources & Gaps](data-sources-scope.md) — Where the data came from, what's missing
+
+## The numbers at a glance
+
+### 15 years
+
+Building CNC routers and lasers. Certified to ISO 9001 (2018) and CE (2014).
+
+### 12 countries
+
+Documented customer cases across 4 continents: woodworking, plastics, and metal lasers.
+
+### 10 years
+
+Longest running machine in the case files (Romania, 2016). Still in daily use.
+
+### ~80%
+
+Polishing work cut when a Malaysian shop dropped plasma for a ROCTECH laser.
+
+**Note on the cases:** The customer stories are written in the customers' own words and kept as-is. Where a machine, spec, or brand point deserves emphasis, a short ROCTECH note has been added. Photos and videos for each case live in the original folders under 若泰机器资料/案例文件_整理/.
+
+Tip: open [Customer Cases](cases/) and use the filter box to jump to any country, material, or machine model.
+
+
+===== FILE: company-profile.md =====
+
+---
+title: Company Profile
+type: topic
+section: company
+summary: "Who ROCTECH / ROCLAS is, dual-brand structure, certifications (CE/FDA/ISO 9001), and contact channels."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Company Profile
+
+ROCTECH (Roctech Machinery Co., Ltd) — CNC routers and fibre lasers, made in Jinan, China. Lasers sell under the ROCLAS name.
+
+ROCTECH builds CNC routers and fibre laser cutting machines, and has done for 15 years. They're not the biggest name in the category, but they ship to 100+ countries and a fair number of their customers come back and buy again. The facts below are the ones worth leading with when someone asks "who are these guys?"
+
+**Two brands, one company**
+
+**ROCTECH** and **ROCLAS** are two brands of the same manufacturer — Jinan Ruotai CNC Technology Co., Ltd. (若泰数控), headquartered in Jinan, China.
+
+**ROCTECH** is the main brand for CNC routers and machining centers: woodworking routers, ATC nesting machines, edge banders, panel drills, and 4-/5-axis stone, foam and mold machines.
+
+**ROCLAS** is the sub-brand for fibre laser cutting machines — sheet, tube, and combined sheet-and-tube models.
+
+That is why some cases here carry the ROCTECH name and others ROCLAS: same manufacturer, two product-line brands.
+
+### Who they are
+
+**Name**: Roctech Machinery Co., Ltd (Chinese: 济南若泰数控科技有限公司)
+
+**What**: CNC routers + fibre laser machines, R&D / build / export
+
+**Base**: Jinan, Shandong (HQ + Qihe factory), Hong Kong office
+
+**Experience**: 15 years in CNC routers
+
+**Patents**: 50+ held, about 10 new each year
+
+**R &D**: 15-person team, most with 15+ years in the trade
+
+**Reach**: Exports to 100+ countries
+
+### Certifications
+
+`ISO 9001` `CE` `FDA (lasers)` `UL` `PDL` `RoHS`
+
+Certification years from local records: **CE in 2014** , **ISO 9001 in 2018** — that's what opened the export market for them.
+
+Cert numbers — ISO 9001: 31623Q10581R1S · CE: ICR/VC/HM2403124 · FDA Laser: 2521816-000 / 2520443-000
+
+### What they're known for
+
+• **Accuracy:** mid-range routers quoted at 0.01 mm positioning / 0.005 mm repeat; 5-axis verified at 0.01 mm under a live 18,000 rpm spindle load.
+
+• **Holding up:** one customer ran a machine 10 hrs/day, 6 days/week for 7+ years and only ever replaced a $200 belt.
+
+• **Saving material:** a cabinet shop dropped scrap from 18% to 7%.
+
+• **Lower running cost:** roughly 15–20% less power than comparable machines.
+
+• **Support:** 1 year of free spare parts, free first-year training, 2-year warranty on core parts, EU/US spare-parts stock.
+
+### Get in touch
+
+**Phone**: +86 531-86085880
+
+**Email**: info@roc-tech.com · support@roc-tech.com
+
+**WhatsApp**: +86 13705409964
+
+**Sales**: Dedicated inboxes for Chinese / Russian / Spanish / Arabic / Portuguese
+
+**One line to remember:** ROCTECH isn't selling the cheapest machine on the page. They're selling a machine that's still cutting a decade later, backed by a team that picks up the phone. That's the pitch the case files back up.
+
+Sources: roc-tech.com (about-us, contact-us, faq) and local 若泰机器资料 (roctech_faqs, certification records).
+
+
+===== FILE: product-solutions.md =====
+
+---
+title: "Product & Solution Map"
+type: topic
+section: products
+summary: "13 product lines (CNC routers, fibre lasers, sheet-and-tube, plasma, HDPE lines) in a comparison table."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Product & Solution Map
+
+Every product line ROCTECH builds, the models customers actually received, and what each one is for. Laser models carry the ROCLAS name.
+
+This table is built from two sources: the product pages on roc-tech.com, and the actual machine models that show up in the 12 customer cases. When a model has been shipped to a real customer, we say so — that's more useful than a catalogue number.
+
+Product line| Models seen in the field| What it does| Typical use
+---|---|---|---
+Woodworking ATC router| RC1325S-ATC, RC1530S-ATC (1500×3000)| 8–24 tool automatic changer + vacuum table| Custom furniture, signs, carving
+Cabinet / panel line| RCA1224 nesting centre, RCE edge bander, 5/6-side drill| Nesting + edge banding + drilling in one flow| Whole-house custom, kitchen cabinets
+5-axis machining centre| RCF1325 / 1838 / 2040 / 2560| ±110° A-axis + 360° C-axis, OSAI control| Moulds, curved wood, foam, stone
+HDPE / plastic line| HDPE processing line (Chile case)| Chain feed + cleaning system, steady run| Plastic sheet processing
+Fibre laser (flat)| RCL3015-3000W / 2000W / Eco, RC3015L (open)| 3000W: 10 mm CS / 6 mm SS / 4 mm AL; ±0.03 mm| Sheet metal, elevator, industrial
+Fibre laser (high power)| 6000W (MAX/Raycus/IPG), up to 10–20 kW| Cuts carbon steel to ~25 mm| Medium/thick plate, volume
+Sheet-and-tube laser| RC3015T / 3015 combo (UK/Russia/Spain)| One machine for sheet and tube, 5–10 min swap| Steel structure, craft metal, mixed jobs
+Exchange-table / large laser| RCL2040-EX-3K (2000×4000 shuttle)| Load/unload overlaps cutting, 80,000 mm/min rapid| High-volume metal work
+Dedicated tube laser| RCL2400-3000W tube cutter| Round/square tube specialist (Spain two-line setup)| Railings, tube parts
+Laser weld / clean / CO₂| Laser welding / cleaning / CO₂| Handheld weld, surface cleaning| Welding, rust removal
+Sign / mould / 4-axis| Sign Makers line, Big CNC for Molds (EPS), 4-axis| Acrylic letters, foam moulds, rotary parts| Advertising, moulds, cylinders
+
+**Read this before quoting:** The RCL / RC / ROCLAS codes are real shipped models. Power, price, and cutting thickness are indicative from the cases and articles — always confirm the exact spec with ROCTECH before you put a number in front of a customer.
+
+Sources: roc-tech.com product centre + customer case files (RCL/RC are actually shipped models).
+
+
+===== FILE: application-industries.md =====
+
+---
+title: Application Industries
+type: topic
+section: industries
+summary: "Industry solutions: woodworking, metal fabrication, signage, aerospace, automotive, construction."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Industry Solutions
+
+Eight materials and industries ROCTECH handles, each one tied to a customer who actually did it.
+
+Most "solutions" pages are wish lists. This one isn't — every card below points to a real case in the [Customer Cases](cases/) section. If you're talking to a shop in that industry, you've got a proof point ready.
+
+### Panel furniture / cabinets
+
+Nesting centre → edge bander → 6-side drill as one line. The proof: a cabinet shop cut scrap from 18% to 7%, and ROCTECH wrote up a real visit to a shop that switched to their centre.
+
+[See cases →](cases/)
+
+### Solid wood / curved parts
+
+5-axis RCF series machines chair backs and bent legs in one setup. The proof: a Romanian workshop has run ROCTECH woodworking machines for 10 years on carved pavilions and lattice work.
+
+[Romania case →](cases/romania.md)
+
+### Moulds / foam
+
+RCF 5-axis plus the Big CNC for Molds (EPS) line. Car, aerospace, and sculpture foam moulds.
+
+### Stone carving
+
+Tiered setup from entry 3-axis to 5-axis. The hard parts are sealed rails, coolant, and spindle cooling — buy a stone machine, not a wood router with a stone bit.
+
+### Signs / advertising
+
+CNC Router for Sign Makers line; acrylic and PVC letters. The proof: a US makerspace runs an RC1530S-ATC doing sign engraving day in, day out.
+
+[USA case →](cases/usa-reno.md)
+
+### Metal / aluminium
+
+Fibre lasers — flat, tube, sheet-and-tube, high power — plus CNC. The proof: eight laser cases across Malaysia, Spain, Italy, Mexico and more.
+
+[Laser cases →](cases/)
+
+### Education / makerspaces
+
+RC series with DSP controller, no PC needed. The proof: the Reno makerspace's ROCTECH has survived years of different operators.
+
+[USA case →](cases/usa-reno.md)
+
+### Plastics / HDPE
+
+HDPE line with chain feed and cleaning system. The proof: Guillermo in Chile runs one steadily and is coming back for loading/unloading systems.
+
+[Chile case →](cases/chile.md)
+
+Sources: roc-tech.com industry articles (newslist/1108, 1109, 1110) + the 12 customer cases.
+
+
+===== FILE: faq-selling-points.md =====
+
+---
+title: "Selling Points & FAQ"
+type: topic
+section: faq
+summary: Quantified selling points and frequently asked questions with evidence from real installs.
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Selling Points & Real Buying Scenarios
+
+The numbers ROCTECH customers actually quote, plus the buying questions that come up most.
+
+This page is for the conversation, not the catalogue. The figures below come from ROCTECH's own FAQ records and from the customer cases. Lead with the one that fits the customer in front of you.
+
+## The numbers that close deals
+
+### Accuracy
+
+Mid-range routers quoted at 0.01 mm positioning, 0.005 mm repeat. The 5-axis is verified at 0.01 mm with the spindle spinning at 18,000 rpm under load — not measured while it's parked, which is how a lot of specs get fudged.
+
+### Reliability
+
+One customer ran a machine 10 hrs/day, 6 days/week for 7+ years and only ever replaced a $200 belt. ROCTECH backs it with 1 year of free parts, free first-year training, and 2-year warranty on core parts.
+
+### Material savings
+
+A cabinet shop took scrap from 18% down to 7% — about 61% less waste. At 40 sheets a week at $65 a sheet, that's roughly $16,900 a year back in material.
+
+### Power & hidden cost
+
+About 15-20% less power than comparable machines. CAM software alone runs $5k-15k a year, so bundle a spare-parts package at purchase and skip the panic later.
+
+### Compliance you can show
+
+CE (2014) and ISO 9001 (2018). ROCTECH supplies third-party load-accuracy reports, pre-ship test reports, and video factory tours so a buyer can verify before paying.
+
+### Industry 4.0, lightly
+
+Newer machines ship with vibration and temperature sensors, optional remote monitoring, and early warnings on spindle heat or axis vibration. Useful, not gimmicky.
+
+## Real buying scenarios (from the FAQ)
+
+These are actual questions people asked ROCTECH, with the answer that went out. Good for handling the same objection when it shows up again.
+
+### Soft-metal memorial plaque
+
+4"×6" half-inch brass: at least 300W and a rigid Z-axis. RC0609 with a 3.0 kW HSD spindle (~$3,500+). Brass engraving uses a 30-60° V-bit, 0.1-0.3 mm deep, with a thin WD-40 mist.
+
+### High-school robotics team — aluminium
+
+At least 1.5 kW, ball screw, 50 kg+ frame. RC0609 (3.0-6.5 kW, ~1450 kg) can qualify for STEM grants up to $5,000.
+
+### Campus makerspace, 4×8
+
+RC1325 + DSP controller + 3.0 kW HSD + Yaskawa + vacuum table + full enclosure. The DSP controller runs without a PC, which is the most stable setup for mixed operators.
+
+### Hobbyist / high-accuracy / rigid
+
+The rest of the FAQ covers the entry buyer (~$1k), tiny-bit work (<$3.5k), sub-$1.2k rigid frames, 4×8 wood, AvidCNC vs build-your-own, the $10-15k tier, and how to avoid eBay traps. Titles only here — see roc-tech.com/faq for the full answers.
+
+**Honest gap:** The official FAQ has 26 questions; only 10 are captured in the local records (IDs 766-775). The numbers above are solid; the missing 16 are just not in this archive yet.
+
+Sources: roc-tech.com/faq + local roctech_faqs record. Accuracy figures carry a note — the official site lists ±0.05 mm for the RCF1325, while the FAQ claims 0.01 mm. Confirm per model.
+
+
+===== FILE: seo-keywords.md =====
+
+---
+title: "SEO & Ad Keywords"
+type: topic
+section: seo
+summary: Target keywords for ads and SEO across markets and product categories.
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Buying / SEO Keywords
+
+Keyword templates pulled from the local "CNC router buying keywords" sheet. Use them for ad groups, landing pages, and content ideas.
+
+These are starter templates, not a finished campaign. Swap the XX placeholder for the product the buyer is actually searching for, and you've got a real query string.
+
+### Question-style templates (replace XX with the product)
+
+how much is a **XX** · how much does a **XX** cost · are chinese **XX** any good · how to buy a **XX** · how much are **XX** · where can i find a **XX** · where to buy a **XX** · how to choose **XX**
+
+### Product-category keywords (XX candidates)
+
+`Fiber laser cutting machine` `laser cutting machine for sheet metal` `laser cutting machine for tube` `sheet metal and tube` `5-Axis Fiber laser machine` `Laser welding` `Laser cleaning` `Roll steel processing line` `CO2 laser machine`
+
+### Power-and-model keywords
+
+`3000W` `4000W` `6000W` `8000W` `10KW` `12KW` `15KW` `20KW` Fiber laser cutting machine
+
+**Tip:** "Are Chinese XX any good" pulls in the skeptical buyer who's comparing. Answer it with the case studies — that's what this knowledge base is for.
+
+Source: CNC路由器采购关键词汇总.xlsx (local 若泰机器资料).
+
+
+===== FILE: technical-notes.md =====
+
+---
+title: Technical Notes
+type: topic
+section: technical
+summary: "Deep notes on vacuum tables, 5-axis heads, tube laser cutting, and common pitfalls."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Technical Notes
+
+The engineering points that actually come up when someone's spec'ing a machine. Short and to the point.
+
+### Vacuum hold-down
+
+Zoned, double-layer tables hold a tiny part and a full sheet on the same bed without losing vacuum. Matters more than people think once nesting gets tight.
+
+### Drilling built in
+
+Putting the drill bank inside the cutting cycle, plus a 6-side drill for one-setup holes, kills a whole class of assembly errors. That's how the cabinet line hits its material savings.
+
+### Software continuity
+
+Nesting software talking straight to the controller, no hand-typed G-code in between. That's what makes batch-one work viable instead of a headache.
+
+### 5-axis rigidity
+
+Accuracy comes from how the frame damps, not from the brochure. Mid-range machines run around 8,500 kg — about double an entry frame. A light frame won't hold tolerance through a real composite cut.
+
+### Stone is its own job
+
+Sealed rails, heavy guides, spindle cooling. Before buying, confirm it's a stone machine and not a wood router with a stone bit bolted on.
+
+### Laser cutting numbers
+
+±0.03 mm positioning, ±0.02 mm repeat, Ra ≤ 12.5 µm so most parts skip polishing. Sheet-to-tube swap in 5-10 minutes. Full enclosure is what passes EU CE/FDA.
+
+### Sheet-and-tube trade-off
+
+Right call when sheet is the main work and tube is secondary. If tube volume is high, run a flatbed plus a dedicated tube cutter as two lines and roughly double capacity.
+
+### What's inside the machine
+
+MAX / Raycus / IPG sources, RAYTOOLS heads, Leadshine servos, Taiwan rails and racks (OEM to ROCTECH spec), Schneider electrics, S&A chillers. Named brands, not mystery parts.
+
+Sources: roc-tech.com product pages + the 12 customer cases (spec tables and Q&A).
+
+
+===== FILE: data-sources-scope.md =====
+
+---
+title: "Data Sources & Scope"
+type: topic
+section: data
+summary: "Where the case data comes from, what is verified, and known gaps / caveats."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Sources & Gaps
+
+Where this knowledge base came from, what's solid, and what's still missing.
+
+### What's in here (solid)
+
+• 12 named customer cases — 4 woodworking/plastics, 8 metal lasers, across 12 countries.
+
+• Quantified selling points — accuracy, reliability, material savings, power, compliance.
+
+• The actual shipped laser model map (RCL / RC / ROCLAS).
+
+• Buying / SEO keyword templates.
+
+• Company facts, including the Chinese name (若泰) and certification years.
+
+### What's still missing
+
+• 16 of the 26 official FAQ questions aren't in the local records (only IDs 766-775 captured).
+
+• Accuracy figures disagree: the site lists ±0.05 mm for the RCF1325, the FAQ claims 0.01 mm. Confirm per model before quoting.
+
+• Q&A.doc (old binary format) wasn't parsed. The 10 long English articles were skimmed for structure, not fully absorbed.
+
+• Forum and Reddit customer chatter (humor_faqs, forum_posts) wasn't folded in.
+
+### Where the data came from
+
+**A.** roc-tech.com — about-us, faq, product centre, newslist/1108·1109·1110, contact-us.
+
+**B.** Local 若泰机器资料/案例文件_整理 — 12 case folders (EN docs + photos/video).
+
+**C.** Local — roctech_faqs, CNC路由器采购关键词汇总.xlsx, roctech_10_articles.
+
+Heads-up: laser power, price, and scrap rates are indicative from cases/articles. Quote from ROCTECH directly.
+
+**Note on the brand split:** ROCTECH is the parent (Jinan Ruotai / 若泰). The laser line runs under the ROCLAS name. Both show up in the cases — the Irish shop, for example, crossed from ROCTECH woodworking machines to a ROCLAS laser.
+
+This page is the audit trail. If something here looks off, check it against the source listed before you put it in front of a customer.
+
+
+===== FILE: cases/README.md =====
+
+---
+title: Customer Cases Index
+type: topic
+section: cases-index
+summary: Table of all 12 customer cases across 12 countries with one-line outcomes.
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+# Customer Cases
+
+12 named customers across 12 countries. 4 woodworking/plastics, 8 metal lasers. Each story is kept in the customer's own words, with a short ROCTECH note added.
+
+Country| Customer / industry| Machine| One-line outcome
+---|---|---|---
+🇺🇸 USA| Generator makerspace, Reno| RC1530S-ATC (2017)| Shared public machine, many operators, still accurate
+🇷🇴 Romania| Woodworking workshop| Woodworking machines (2016)| 10 years later, still in daily production
+🇨🇱 Chile| Guillermo, production shop| HDPE processing line| Runs clean and steady; coming back for more
+🇮🇪 Ireland| Long-time woodworking customer| 3000W ROCLAS laser| Came back and added a laser to the workshop
+🇩🇿 Algeria| Metal shop, 10+ yrs| RCL2040-EX-3K exchange table| Replaced old laser; loads while it cuts
+🇬🇧 UK| Metal processing plant| 3015 sheet-and-tube 3000W| One machine did the job of two
+🇷🇺 Russia| Craft-metal workshop| 3015 sheet-and-tube 3000W| Half the floor space; runs to -10 °C
+🇲🇾 Malaysia| Tony, elevator sheet-metal| RCL3015-3000W| Dropped plasma; ~80% less polishing, 80+ sets/day
+🇲🇽 Mexico| Metal fabrication shop| 6000W fibre laser| Faster on thick plate, no extra labour
+🇺🇾 Uruguay| Small sheet-metal shop| RC3015L 3000W + lifter arm| Open type, low cost, one-person loading
+🇪🇸 Spain| Steel-structure fabricator| RC3015T-3000W sheet-and-tube| Replaced two machines; ~70% less polishing
+🇮🇹 Italy| Sheet-metal, industrial/arch| RCL3015-3000W cover + pull table| Fixed speed, scrap, and EU compliance
+
+Open any country below to read the full story.
+
+- [USA — Reno makerspace](usa-reno.md) — Woodworking ATC, 2017
+- [Romania — woodworking](romania.md) — 10 years and counting
+- [Chile — HDPE line](chile.md) — Repeat buyer
+- [Ireland — ROCLAS laser](ireland.md) — Cross-category repeat
+- [Algeria — exchange table](algeria.md) — 3000W, 2×4 m
+- [UK — sheet-and-tube](uk.md) — One machine, two jobs
+- [Russia — craft metal](russia.md) — -10 °C, half the space
+- [Malaysia — elevator](malaysia.md) — Left plasma behind
+- [Mexico — 6000W](mexico.md) — Thick plate speed
+- [Uruguay — compact](uruguay.md) — One-person loading
+- [Spain — steel structure](spain.md) — Replaced two machines
+- [Italy — industrial/arch](italy.md) — EU compliance
+
+
+===== FILE: cases/usa-reno.md =====
+
+---
+title: A 2017 ROCTECH RC1530S-ATC Still Running at a Nevada Makerspace
+type: case
+country: United States
+country_code: US
+region: North America
+category: woodworking
+industry: Makerspace / shared woodworking
+customer: "The Generator Community Maker Space, Reno, Nevada"
+product: RC1530S-ATC wood CNC router with ATC
+year: 2017
+tags: [Woodworking, Makerspace, Shared equipment]
+outcome: "Shared public machine with many operators, still accurate after 9 years"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇺🇸
+
+## A 2017 ROCTECH RC1530S-ATC Still Running at a Nevada Makerspace
+
+Woodworking · installed 2017
+
+`Woodworking` `Makerspace` `Shared equipment`
+
+**Customer**: The Generator Community Maker Space, Reno, Nevada, USA
+
+**Machine**: ROCTECH RC1530S-ATC wood CNC router with ATC
+
+**Installed**: 2017
+
+**Materials**: Solid wood, plywood, MDF and other panels
+
+### The customer
+
+The Generator is a community makerspace in Reno, Nevada. It bought an RC1530S-ATC automatic-tool-change wood CNC router back in 2017, and the machine has been in near-constant use ever since.
+
+### How the machine is used
+
+Because it is a shared public space, the router is operated by many different people every day. It cuts solid wood, plywood, MDF and other panel materials for maker prototypes, custom furniture, sign engraving and general wood fabrication all year round.
+
+Even after years of heavy-duty operation, the router still runs smoothly and holds stable cutting precision. For a machine that has passed through many hands in a public shop, that says a lot about how it was built.
+
+### Key advantages
+
+  * Proven under heavy shared use: many operators, varied jobs and years of continuous running.
+  * A durable structure: delivered in 2017 and still holding its rigidity and machining accuracy.
+  * ATC automatic tool changer with a vacuum table, for cutting, grooving, routing and engraving.
+
+### Photos from the customer
+![usa-reno customer photo 1](images/usa-reno/1.png) Customer photo 1 of 4
+![usa-reno customer photo 2](images/usa-reno/2.png) Customer photo 2 of 4
+![usa-reno customer photo 3](images/usa-reno/3.png) Customer photo 3 of 4
+![usa-reno customer photo 4](images/usa-reno/4.png) Customer photo 4 of 4
+
+**ROCTECH note**
+
+ROCTECH built this machine to survive a public makerspace — handed from one stranger to the next, every day, for years. That's the kind of abuse most shop machines never see, and it's still holding tolerance. If a ROCTECH router can take that, a paid operator's shop is easy.
+
+Original case: 若泰机器资料/案例文件_整理/木工/美国内华达州里诺市木工案例/ · customer photos: 4 images in that folder's images/.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/romania.md =====
+
+---
+title: "Ten Years On: A Romanian Workshop Still Cutting with ROCTECH"
+type: case
+country: Romania
+country_code: RO
+region: Europe
+category: woodworking
+industry: Woodworking workshop
+customer: "Woodworking workshop, Romania"
+product: ROCTECH woodworking machines
+year: 2016
+tags: [Woodworking, Durability proof]
+outcome: "10 years later, still in daily production"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇷🇴
+
+## Ten Years On: A Romanian Workshop Still Cutting with ROCTECH
+
+Woodworking · 10 years
+
+`Woodworking` `Durability proof`
+
+**Customer**: Woodworking workshop, Romania
+
+**First purchase**: 2016
+
+**Still running**: 10 years and counting
+
+### The customer
+
+A customer in Romania bought our woodworking machinery back in 2016. A decade later those same machines are still turning out work.
+
+### What ten years looks like
+
+The range of work is the proof: gothic-style stage backdrops at music festivals, butterfly-cut lattice panels and glowing carved pavilions. Different jobs, different materials, the same machines day after day.
+
+Ten years of daily use. Ten years of performance without drama. That is what we mean when we talk about ROCTECH durability.
+
+### Photos from the customer
+![romania customer photo 1](images/romania/image1.jpeg) Customer photo 1 of 3
+![romania customer photo 2](images/romania/image2.jpeg) Customer photo 2 of 3
+![romania customer photo 3](images/romania/image3.jpeg) Customer photo 3 of 3
+
+**ROCTECH note**
+
+Ten years on the same machines. ROCTECH doesn't make disposable gear — the Romanian shop is still on the original purchase, not on its third replacement. That's the single strongest durability story in this whole knowledge base, and it's a good one to lead with for any woodworking buyer weighing price against lifespan.
+
+Original case: 若泰机器资料/案例文件_整理/木工/罗马尼亚木工案例/ · photos: 3 images + 1 customer video feedback in that folder's images/.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/chile.md =====
+
+---
+title: "A Trusted Partner in Chile: Guillermo's HDPE Processing Line"
+type: case
+country: Chile
+country_code: CL
+region: South America
+category: plastics
+industry: HDPE / plastics processing
+customer: "Guillermo, production shop, Chile"
+product: HDPE processing line
+year: ""
+tags: [HDPE, Repeat buyer]
+outcome: Runs clean and steady; customer coming back for more
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇨🇱
+
+## A Trusted Partner in Chile: Guillermo's HDPE Processing Line
+
+Plastics / HDPE · repeat buyer
+
+`HDPE` `Repeat buyer`
+
+**Customer**: Guillermo, Chile
+
+**Equipment**: HDPE processing line
+
+**Next purchase**: Dedicated loading and unloading systems
+
+### The customer
+
+Guillermo runs a production business in Chile and bought our HDPE processing equipment to serve the needs of his own customers. The results have spoken for themselves since the first day of production.
+
+### In his own words
+
+"The machine is working very, very well. The product is very good, very clean. The chain is perfect, and the cleaning system runs smoothly in the line. I am very happy with this machine - it was a good choice."
+
+### What has held up
+
+Every core and supporting component runs without issue, and the output quality meets the high standard Guillermo's customers expect. He has already told us he will choose ROCTECH again, this time adding dedicated loading and unloading systems.
+
+We do not treat that as a one-off sale. It is the start of a longer relationship.
+
+### Photos from the customer
+![chile customer photo 1](images/chile/image1.jpeg) Customer photo 1 of 2
+![chile customer photo 2](images/chile/image2.jpeg) Customer photo 2 of 2
+
+**ROCTECH note**
+
+Guillermo liked it enough to come back for more — and not just the same machine, but the next step up (loading/unloading automation). That's the kind of repeat business ROCTECH is built on, and it's the cleanest answer to "will this supplier still be there after the sale?" Yes, and they'll sell you the upgrade too.
+
+Original case: 若泰机器资料/案例文件_整理/木工/智利木工案例/ · photos: 2 images + 1 video in that folder's images/.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/ireland.md =====
+
+---
+title: "From FANUC Routers to ROCLAS Lasers: A Long-Time Customer in Ireland"
+type: case
+country: Ireland
+country_code: IE
+region: Europe
+category: woodworking-to-laser
+industry: Woodworking then laser
+customer: "Long-standing woodworking customer, Ireland"
+product: 3000W ROCLAS laser
+year: ""
+tags: [Woodworking, Laser, Repeat buyer]
+outcome: Cross-category repeat buyer added a laser to the workshop
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇮🇪
+
+## From FANUC Routers to ROCLAS Lasers: A Long-Time Customer in Ireland
+
+Woodworking → Laser
+
+`Woodworking` `Laser` `Repeat buyer`
+
+**Customer**: Long-standing woodworking customer, Ireland
+
+**Machine**: 3000W ROCLAS laser
+
+**History**: Previously purchased large FANUC woodworking machinery
+
+### The customer
+
+This customer has been with us since the days of our large FANUC woodworking machines. They believed in the equipment from the start, and when we released the ROCLAS laser series, they did not hesitate. They added a 3000W ROCLAS laser to the workshop and put it straight to work.
+
+### What the feedback shows
+
+The photos they sent back tell the story better than a spec sheet can. Clean cuts and fine engraving that hold every detail of the design, piece after piece, with the same result every time.
+
+They also show a machine that is built to keep going: solid construction and dependable performance, day after day and project after project.
+
+### What it comes down to
+
+High precision, consistent quality and a frame that lasts. From FANUC woodworking machines to ROCLAS lasers, the same customer keeps buying from us, and we keep earning that trust.
+
+### Photos from the customer
+![ireland customer photo 1](images/ireland/image1.png) Customer photo 1 of 4
+![ireland customer photo 2](images/ireland/image2.png) Customer photo 2 of 4
+![ireland customer photo 3](images/ireland/image3.png) Customer photo 3 of 4
+![ireland customer photo 4](images/ireland/image4.png) Customer photo 4 of 4
+
+**ROCTECH note**
+
+Same customer, two product families, one supplier. ROCTECH earned the second sale by delivering on the first — the Irish shop ran ROCTECH woodworking machines, trusted the brand, and crossed over to ROCLAS lasers without shopping around. That's brand loyalty you can point to when a laser buyer asks "should I trust a router company to build a laser?" They already did.
+
+Original case: 若泰机器资料/案例文件_整理/木工/爱尔兰激光案例/ · photos: 4 images in that folder's images/.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/algeria.md =====
+
+---
+title: "RCL2040-EX-3K Laser Cutter: An Algerian Fabricator Moves Up to a 2 x 4 m Exchange Table"
+type: case
+country: Algeria
+country_code: DZ
+region: Africa
+category: metal-laser
+industry: Metal fabrication
+customer: "Metal fabrication shop, Algeria"
+product: "RCL2040-EX-3K enclosed fibre laser, shuttle table (3000W, 2x4 m)"
+year: ""
+tags: [Laser 3000W, Exchange table, Enclosed]
+outcome: Replaced old laser; loads material while it cuts
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇩🇿
+
+## RCL2040-EX-3K Laser Cutter: An Algerian Fabricator Moves Up to a 2 × 4 m Exchange Table
+
+Metal · replaced old laser
+
+`Laser 3000W` `Exchange table` `Enclosed`
+
+**Customer**: Metal fabrication shop, Algeria
+
+**Machine**: RCL2040-EX-3K fully enclosed fibre laser with shuttle table
+
+**Worktable**: 2000 × 4000 mm (5 × 10 ft) blade table
+
+**Laser**: 3000W MAX source, RAYTOOLS BS03K head
+
+**Warranty**: 3 years on the complete machine
+
+### Who the customer is
+
+The customer runs a metalworking shop in Algeria and has spent more than ten years cutting and forming sheet metal for local industrial buyers. Most of the workload is carbon steel and stainless plate, and as project volumes grew, the limits of the old equipment started showing up in delivery dates and rework.
+
+### What was slowing them down
+
+  * The old 3-axis laser needed manual loading. Someone had to walk every sheet onto the bed, which pushed up labour cost and stretched the processing cycle.
+  * Cut quality had dropped. Edges carried heavy slag, dimensions drifted, and seams never quite lined up, so a lot of parts went back for rework.
+  * Speed was the biggest problem. Large orders piled up because the machine simply could not keep pace with the shop's growth.
+
+### What we recommended
+
+We put forward the RCL2040-EX-3K. The shuttle table and the enclosure were the two features that mattered most here.
+
+  * 2000 × 4000 mm interchangeable blade table. A full-size sheet is loaded once, and loading and unloading overlap, so the laser spends its time cutting instead of waiting for material.
+  * 3000W MAX source with a RAYTOOLS BS03K head. Edges come out clean and burr-free, well ahead of what their old plasma and laser lines could manage.
+  * Fully enclosed body, an S&A 3000W chiller and automatic lubrication. It is built for a hot, dusty production floor.
+  * Schneider electrical components throughout and a RAYTOOLS control system, backed by a 3-year machine warranty.
+
+### Key specifications
+
+Model| RCL2040-3K
+---|---
+Working size| 2000 × 4000 mm (5 × 10 ft)
+Working table| Blade table
+Laser power| 3K-12K
+Laser source| MAX
+Laser head| RAYTOOLS
+Control system| RAYTOOLS
+Max rapid travel| 80,000 mm/min
+X/Y axis position accuracy| ±0.03 mm / 1000 mm
+Working environment| 0-40 °C, humidity ≤ 80%, no condensation
+Working voltage| 220V / 380V, 60/50 Hz, 3PH
+Auxiliary gas| Air, oxygen, nitrogen
+Water chiller| S&A
+Packing size| 9000 × 2250 × 2300 mm
+Gross / net weight| 3500 kg / 3250 kg
+
+### Questions the customer asked
+
+**Q: Can it cut copper and aluminium, or do the reflective surfaces cause trouble?**
+It handles them. The high-reflectivity suppression module takes 1-2 mm copper and 2-3 mm aluminium without a problem.
+
+**Q: Do we need a dedicated room for it?**
+No. A 380V supply and reasonable ventilation are enough, because the smoke extraction is built into the machine.
+
+**Q: Can we program offline?**
+Yes. The layout can be prepared on a computer first and sent over later, so the machine is not sitting idle while someone draws the next job.
+
+### A smaller alternative
+
+For a shop that only needs a 3000 × 1500 mm working area, the open-type RCL3015-3K covers the same 3000W cutting work without the enclosure or exchange table.
+
+### Photos from the customer
+![algeria customer photo 1](images/algeria/image1.jpeg) Customer photo 1 of 6
+![algeria customer photo 2](images/algeria/image2.jpeg) Customer photo 2 of 6
+![algeria customer photo 3](images/algeria/image3.jpeg) Customer photo 3 of 6
+![algeria customer photo 4](images/algeria/image4.jpeg) Customer photo 4 of 6
+![algeria customer photo 5](images/algeria/image5.jpeg) Customer photo 5 of 6
+![algeria customer photo 6](images/algeria/image6.jpeg) Customer photo 6 of 6
+
+**ROCTECH note**
+
+ROCTECH swapped a bottleneck for a machine that keeps cutting while the next sheet loads. The Algerian shop had outgrown its old laser; the exchange table and 3-year warranty took the risk out of moving up. When a customer says "my old machine can't keep up," this is the answer — and the spec sheet above is the proof.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/阿尔及利亚交换台面/ · photos: 6 images in that folder's images/.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/uk.md =====
+
+---
+title: 3015 Sheet-and-Tube Fibre Laser for a UK Metal Processing Plant
+type: case
+country: United Kingdom
+country_code: GB
+region: Europe
+category: metal-laser
+industry: Metal processing plant
+customer: "Metal processing plant, UK"
+product: 3015 integrated sheet-and-tube fibre laser (3000W)
+year: ""
+tags: [Laser 3000W, Sheet-and-tube]
+outcome: One machine did the job of two
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇬🇧
+
+## 3015 Sheet-and-Tube Fibre Laser for a UK Metal Processing Plant
+
+Metal · controlled cost
+
+`Laser 3000W` `Sheet-and-tube`
+
+**Country**: UK
+
+**Work**: Metal sheet and tube cutting
+
+**Machine**: 3015 integrated sheet-and-tube fibre laser, 3000W
+
+**The ask**: One machine, controlled equipment cost
+
+### The situation
+
+The plant processes both sheet and tube but had a limited budget, and a one-time purchase of two separate machines would have put too much pressure on the finances. The practical answer was a single machine that does both.
+
+### What we recommended
+
+A 3015 sheet-and-tube fibre laser at 3000W.
+
+  * One unit replaces a flatbed and a tube cutter, which cuts the procurement cost significantly.
+  * It frees up factory floor space compared with two machines.
+  * Sheet and tube are handled in the same machine, so there is no cross-machine handling.
+  * If tube orders grow later, a dedicated tube cutter can be added without throwing this machine away.
+
+### Technical specifications
+
+  * Cutting area: 1500 × 3000 mm
+  * Laser brand: MAX MFSC series, Raycus or IPG
+  * Cutting speed: 0-40,000 mm/min
+  * Cooling: water cooling
+  * Drive: Leadshine servo motors
+  * Control: CypCut
+  * Laser power: 3000W
+  * Supported formats: AI, BMP, Dst, Dwg, DXF, DXP, PLT
+  * Materials: various metals
+
+### Questions the customer asked
+
+**Q: What is the machine structure?**
+It uses a split-type bed. Production and assembly are controlled so the bed stays parallel, which protects long-term cutting accuracy.
+
+**Q: How do we maintain the chiller?**
+Replace the internal circulating water every three months.
+
+**Q: What control system does the fibre laser use?**
+The Raytools X3S.
+
+**Q: How many motors drive the tube-cutting tailstock?**
+Two.
+
+**Q: Does the machine have CE certification?**
+Yes.
+
+### Related machines
+
+For sheet-only work, the RCL3015 flatbed is the simpler choice; for high tube volumes, a dedicated laser tube cutting machine is the way to go.
+
+**ROCTECH note**
+
+One ROCTECH machine did the job of two. The UK plant didn't have the budget for a flatbed and a tube cutter, so ROCTECH put both in one bed — lower spend, less floor, no cross-machine handling. Simple math, lower risk. That's the pitch for any shop that cuts both but doesn't want two machines sitting idle.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/英国板管一体案例/ · photos in that folder's images/.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/russia.md =====
+
+---
+title: "One Machine for Sheet and Tube: A Russian Craft-Metal Workshop's 3015 Laser"
+type: case
+country: Russia
+country_code: RU
+region: Europe / Asia
+category: metal-laser
+industry: Craft metal / decorative
+customer: "Metal crafts manufacturer, Russia"
+product: 3015 integrated sheet-and-tube fibre laser (3000W)
+year: ""
+tags: [Laser 3000W, Sheet-and-tube, Low temperature]
+outcome: Half the floor space; runs down to -10 C
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇷🇺
+
+## One Machine for Sheet and Tube: A Russian Craft-Metal Workshop's 3015 Laser
+
+Craft metal · -10 °C
+
+`Laser 3000W` `Sheet-and-tube` `Low temperature`
+
+**Customer**: Metal crafts manufacturer, Russia
+
+**What they make**: Decorative ornaments, openwork pendants, tube-based components
+
+**Machine**: 3015 integrated sheet-and-tube fibre laser, 3000W
+
+**Working environment**: Runs down to -10 °C, built for Russian winters
+
+### The customer and the job
+
+This is a craft metal shop: ornaments, openwork pendants and tube-based parts. Orders come in small batches with a lot of different designs, and the shop pays Russian rent and winter heating on every square metre. Buying two separate machines was never going to make sense.
+
+### Why two machines did not fit
+
+  * A separate flatbed plus a separate tube cutter eats double floor space, and in Russia that means paying for rent and heating twice.
+  * Two machines mean two purchase prices, two freight and customs bills, and two sets of spare parts to keep in stock.
+  * Moving sheet and tube between two machines adds handling time to every small custom order.
+  * Two machines need two operators, and skilled metal workers in Russia are not cheap.
+  * Switching between plate and tube work on separate machines is slow when almost every order is a different design.
+
+### What we recommended
+
+A 3015 sheet-and-tube fibre laser at 3000W. One bed, one control, one operator.
+
+  * Cuts plate, round tube and square or rectangular tube on the same machine, so the shop only buys once.
+  * Cuts the floor footprint roughly in half, which matters every winter.
+  * Uses the same laser system for both materials, so sheet and tube parts line up properly at assembly.
+  * Switches between plate and pipe in about five to ten minutes, with no dismantling.
+  * Runs in workshops down to -10 °C, with the electrical and optical systems protected for low-temperature work.
+
+### Core specifications
+
+  * Laser power: 3000W (2000W and 3000W available; 3000W recommended for craft work)
+  * Plate working area: 3000 × 1500 mm
+  * Tube range: round 20-160 mm diameter; square and rectangular 20 × 20 to 120 × 120 mm
+  * Cutting accuracy: ±0.03 mm, kerf ≤ 0.1 mm
+  * Max plate cut: carbon steel 10 mm, stainless steel 6 mm, aluminium 3 mm
+  * Max tube cut: carbon steel 6 mm, stainless steel 4 mm
+  * Control: dedicated sheet-and-tube CNC with a built-in craft image library, DXF/DWG import
+  * Drive: full servo motors
+  * Footprint: about 4.2 m × 2.2 m
+
+### Questions the customer asked
+
+**Q: What metals will it cut?**
+Stainless steel, carbon steel, galvanized sheet, aluminium sheet, decorative copper tube and iron tube, which covers the common raw materials used in metal crafts.
+
+**Q: How does the machine get to Russia, and what about customs?**
+It ships in a thickened, moisture-proof wooden crate for sea or land transport. We also provide export documents and a certificate of origin to help with Russian customs clearance.
+
+**Q: Will it fail in cold weather?**
+The electrical system and laser are treated for low-temperature operation and run stably down to -10 °C. In winter the shop only needs basic insulation.
+
+**Q: Is switching between sheet and pipe a hassle?**
+No parts need to be dismantled. The system switches modes with one click, and the pipe fixtures come off quickly. A full switch takes about five to ten minutes.
+
+**Q: Are spare parts available in Russia?**
+Common consumables such as lenses, nozzles and ceramic rings ship in bulk with the machine, and we support international express delivery plus video-guided repair for urgent faults.
+
+**Q: Do the cut pieces need grinding afterwards?**
+Thin craft sheet comes off essentially burr-free and can go straight to bending or welding, so grinding is mostly eliminated.
+
+**Q: Can we import our own drawing files?**
+Yes. The CNC takes DXF and DWG files, so customer-designed ornaments and pipe shapes can be imported and cut directly.
+
+**Q: How hard is it for workers with no experience to learn?**
+The interface is in English and comes with tutorials and video training. A new operator can handle plate and pipe programming on their own in two to three days.
+
+### Other machines for similar work
+
+  * Standalone 3015 flatbed fibre laser, for a shop that later turns out to have very little pipe work.
+  * Fully automatic tube laser, for a shop whose main business becomes railings and decorative pipe parts.
+  * Small 20-100W desktop marking machine, for miniature metal crafts and jewellery-size work.
+
+**ROCTECH note**
+
+ROCTECH sized the machine to Russian winters and Russian rents. The shop lives on small custom orders, so two machines meant double rent, double heating, double operators — ROCTECH put it all in one bed that still runs at -10 °C. When a customer's real constraint is floor space and heating bills, this is the argument that closes: half the footprint, one operator, no dismantling to switch jobs.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/俄罗斯切管机/ · docs in that folder.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/malaysia.md =====
+
+---
+title: "RCL3015-3000W: How a Malaysian Elevator Fabricator Left Plasma Behind"
+type: case
+country: Malaysia
+country_code: MY
+region: Asia
+category: metal-laser
+industry: Elevator sheet-metal
+customer: "Tony, elevator sheet-metal factory, Malaysia"
+product: RCL3015-3000W fibre laser
+year: ""
+tags: [Laser 3000W, Replaced plasma, Higher output]
+outcome: "Dropped plasma; ~80% less polishing, 80+ sets/day"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇲🇾
+
+## RCL3015-3000W: How a Malaysian Elevator Fabricator Left Plasma Behind
+
+Elevator · dropped plasma
+
+`Laser 3000W` `Replaced plasma` `Higher output`
+
+**Customer**: Tony, elevator sheet-metal factory, Malaysia
+
+**Machine**: RCL3015-3000W fibre laser
+
+**Work**: Elevator car panels, door frames, brackets, stainless decorative parts
+
+**Materials**: 304 stainless 1-6 mm, carbon steel 2-10 mm, aluminium 1-4 mm
+
+**Budget**: RMB 220,000 - 280,000
+
+### The customer and the workload
+
+Tony runs a mid-size elevator component factory in Malaysia. The shop cuts AISI 304 stainless, carbon steel and some aluminium into car panels, door frames, brackets and decorative pattern parts. Peak season comes hard, and the old plasma setup had become the bottleneck.
+
+### Where plasma was costing them
+
+  * Edges came out rough with heavy slag, so every part was hand-polished. Fine holes and small patterns were hit or miss.
+  * Aluminium slagged badly and stainless blackened at the cut, so a lot of decorative work was being outsourced and eating into margin.
+  * With all the hand finishing, one plasma cutter managed about 30 sets of parts a day. Peak orders meant late deliveries and lost customers.
+  * Thermal distortion on shaped parts ran 0.3-0.5 mm off, assembly gaps did not close, and scrap stayed above 8%.
+  * Electrodes and nozzles wore out fast, and the noise and smoke were becoming a workshop problem.
+
+### What we recommended
+
+The RCL3015-3000W. The 3000W source matches their material range without paying for power the shop would never use.
+
+  * 3000W cuts 10 mm carbon steel, 6 mm stainless and 4 mm aluminium cleanly, covering the full thickness range they process.
+  * Positioning accuracy of ±0.03 mm, repeat accuracy of ±0.02 mm and a minimum kerf of 0.15 mm bring the surface roughness to Ra ≤ 12.5 µm and remove about 80% of the polishing work.
+  * The standard 3015 table takes 3 m × 1.5 m sheets, the common size in elevator work, with no custom oversize table needed.
+  * 120 m/min rapid travel and 1.5G acceleration cut thin sheet about three times faster than plasma, pushing daily output past 80 sets.
+
+### Questions the customer asked
+
+**Q: Can the 3000W cut 6 mm stainless with a smooth finish?**
+Yes. With high-pressure oxygen assist there is no slag adhesion, and Ra stays within 12.5 µm, so decorative panels need no secondary polishing.
+
+**Q: Will it break down running ten hours a day?**
+The laser source has a one-year warranty, the head and servo motors are first-tier brands, and the bed is stress-relief annealed. With normal maintenance it runs ten hours a day with under four hours of maintenance downtime a month.
+
+**Q: How much labour does it save compared with plasma?**
+Plasma parts currently need five to ten minutes of hand polishing each. The laser removes 70-80% of that, worth two or three polishers a month.
+
+**Q: What comes with the machine, and what are the running consumables?**
+It ships with a cutting head, several nozzle sizes, protective lenses, air lines and a tool kit. Regular consumables run about 300-500 Malaysian Ringgit a month, far below plasma electrode and nozzle spend.
+
+**Q: How much floor space does it need?**
+The machine is 4.6 m × 2.45 m, needs about 0.8 m of clearance around it, and takes roughly 18 square metres in total. It fits the existing workshop without expansion.
+
+### Related machines
+
+  * Laser cutter with exchange worktables, for shops that want to cut and load at the same time.
+  * 6000W high-power fibre laser, for thicker plate.
+  * Integrated sheet-and-tube laser, if the shop later adds pipe work.
+
+**ROCTECH note**
+
+Tony dropped plasma for a ROCTECH laser and cut his polishing nearly to zero — about 80% of the hand-finishing gone, daily output past 80 sets. That's the headline for any shop still running plasma: the ROCTECH laser pays for the polishing labour it removes, and the scrap and distortion problems disappear with it. The numbers above are the case, not the pitch.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/马来西亚激光案例/ · docs in that folder.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/mexico.md =====
+
+---
+title: 6000W Fibre Laser for a Mexican Metal Fabrication Shop
+type: case
+country: Mexico
+country_code: MX
+region: North America
+category: metal-laser
+industry: Metal fabrication
+customer: "Metal fabrication shop, Mexico"
+product: "6000W fibre laser, 1500 x 3000 mm"
+year: ""
+tags: [Laser 6000W, Medium/thick plate]
+outcome: "Faster on thick plate, no extra labour"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇲🇽
+
+## 6000W Fibre Laser for a Mexican Metal Fabrication Shop
+
+Metal · high power
+
+`Laser 6000W` `Medium/thick plate`
+
+**Country**: Mexico
+
+**Industry**: Metal fabrication: carbon steel, stainless steel, aluminium
+
+**Machine**: 6000W fibre laser, 1500 × 3000 mm working area
+
+**The ask**: Higher cutting speed, lower labour cost
+
+### The situation
+
+The shop was falling behind on orders. Its existing equipment could not keep carbon, stainless and aluminium moving fast enough to hit delivery dates, and the factory wanted more throughput without adding headcount.
+
+### What we recommended
+
+A 6000W fibre laser. At that power, medium and thick plate moves quickly, and thin sheet runs at high speed.
+
+  * 6000W source, with MAX, Raycus or IPG as options.
+  * Raytools cutting head and CypCut control system.
+  * 1500 × 3000 mm working area, with other sizes available.
+  * Positioning accuracy ±0.03 mm, repeat accuracy ±0.02 mm.
+  * Cuts carbon steel to around 25 mm, plus stainless steel, aluminium, brass and galvanized sheet.
+
+### Questions the customer asked
+
+**Q: What materials can it cut?**
+Carbon steel, stainless steel, aluminium, copper and galvanized sheet.
+
+**Q: How do files get to the machine?**
+Files transfer over an Ethernet cable, and the operator runs the job on site.
+
+**Q: How thick a steel plate can the 6000W cut?**
+It depends on the material and the cut, but carbon steel goes up to about 25 mm.
+
+**Q: Will the laser damage the base plate?**
+Fire-resistant bricks are installed under the cutting area to take the heat and prevent fire damage.
+
+**Q: How does batch processing work?**
+Batch jobs use a set MARK point 1 position, which keeps a consistent processing origin for every piece.
+
+**ROCTECH note**
+
+ROCTECH put 6000W of headroom in front of a shop that was outgrowing its line. The Mexican fabricator didn't want more people — it wanted more speed on thick plate — and the ROCTECH 6000W delivered it without the labour. When a customer says "we're missing delivery dates," more power on the same footprint is often the fix, and ROCTECH offers MAX, Raycus or IPG so the buyer controls the budget.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/墨西哥激光案例/ · docs in that folder.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/uruguay.md =====
+
+---
+title: "RC3015L 3000W: A Compact Fibre Laser for a Uruguayan Sheet-Metal Shop"
+type: case
+country: Uruguay
+country_code: UY
+region: South America
+category: metal-laser
+industry: Small sheet-metal shop
+customer: "Small sheet-metal shop, Uruguay"
+product: RC3015L 3000W open fibre laser (3000 x 1500 mm) + lifter arm
+year: ""
+tags: [Laser 3000W, Open type, One-person loading]
+outcome: "Open type, low cost, one-person loading"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇺🇾
+
+## RC3015L 3000W: A Compact Fibre Laser for a Uruguayan Sheet-Metal Shop
+
+Sheet · value for money
+
+`Laser 3000W` `Open type` `One-person loading`
+
+**Country**: Uruguay
+
+**Work**: Thin sheet metal cutting
+
+**Machine**: RC3015L 3000W open fibre laser, 3000 × 1500 mm
+
+**The ask**: High value for money, one-person loading
+
+### The customer
+
+The factory runs a small workforce and a small workshop but still has to process a large amount of raw sheet. The owner wanted a cost-effective 3 kW machine for thin sheet and a way to load it without adding extra hands.
+
+### What we recommended
+
+The open-type RC3015L 3000W. It keeps the purchase price down, cuts thin sheet fast, and with a vacuum lifter arm a single operator can handle loading, which removes most of the labour cost.
+
+### Machine build
+
+  * RC3015L 3000W, 220V / 60 Hz / 3PH
+  * Travel size 3000 × 1500 × 150 mm
+  * Blade table on a welded structure
+  * Raytools cutting head and Raytools control
+  * 3000W MAX fibre laser source
+  * Inovance servo drive system with motor reducers
+  * Taiwan Kingtec square rails and YYC helical rack and pinion, both OEM for ROCTECH
+  * Schneider (France) electrical components
+  * HL-3000W water chiller
+  * Fume extraction blower and hoses
+
+### Questions the customer asked
+
+**Q: What is the warranty?**
+Two years for ordinary accessories and one year for the important accessories.
+
+**Q: What if we do not know how to use it after delivery?**
+We provide 24-hour online support, operation manuals and engineer on-site guidance.
+
+**Q: Can the machine be customized?**
+Yes. Colour, specification, system, motor, spindle and other details can be changed to the customer's requirements.
+
+**Q: How is it delivered to Uruguay?**
+Both sea and land transport are available.
+
+**Q: How should we maintain it?**
+Keep the machine clean after cutting, check the wires and transmission parts for rust and wear on a schedule, and lubricate regularly.
+
+**ROCTECH note**
+
+ROCTECH kept it open and affordable so one person could run the floor. The Uruguayan shop had a small crew and a small budget — the open-type RC3015L plus a vacuum lifter arm meant no second operator, no premium enclosure cost. For a thin-sheet shop watching every dollar, that's the ROCTECH sweet spot: pay for the cut, not the casing. And it's still customizable and backed by 24-hour support.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/乌拉圭客户采购激光机/ · docs in that folder.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/spain.md =====
+
+---
+title: "RC3015T-3000W: Sheet and Tube in One Machine for a Spanish Fabricator"
+type: case
+country: Spain
+country_code: ES
+region: Europe
+category: metal-laser
+industry: Steel-structure fabrication
+customer: "Metal and steel-structure fabricator, Spain"
+product: RC3015T-3000W combined sheet-and-tube fibre laser
+year: ""
+tags: [Laser 3000W, Sheet-and-tube, CE]
+outcome: "Replaced two machines; ~70% less polishing"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇪🇸
+
+## RC3015T-3000W: Sheet and Tube in One Machine for a Spanish Fabricator
+
+Steel structure · replaced two
+
+`Laser 3000W` `Sheet-and-tube` `CE`
+
+**Country**: Spain
+
+**Industry**: Metal and steel-structure fabrication
+
+**Machine**: RC3015T-3000W combined sheet-and-tube fibre laser
+
+**Supplies**: Construction, fitness equipment, agricultural machinery makers
+
+### The customer and the job
+
+The shop works out of a single-storey building and cuts flat sheet and tube at the same time. The finished parts go to local makers in construction, fitness equipment and agricultural machinery, and sheet and tube are often blanked together in one batch.
+
+### What the two-machine setup was costing
+
+  * They already owned a flatbed laser and a plasma tube cutter. Two machines meant double floor space, double procurement and double maintenance, and the tube cutter sat idle whenever tube orders dropped.
+  * Moving sheet and tube between two machines stretched out every batch and made rush orders impossible.
+  * The old equipment burned edges on stainless and thin plate, so that work went outside, came back slow and raised external processing cost.
+  * Two control systems and two spare-parts shelves made fault finding slower, and plasma electrodes and nozzles wore out every month.
+
+### What we recommended
+
+The RC3015T-3000W. One machine does both jobs and does them on the same bed.
+
+  * Integrated sheet and tube processing replaces two machines, cuts floor occupancy by half and lowers the initial investment.
+  * The 3000W MAX source cuts 16 mm carbon steel, 8 mm stainless and 6 mm aluminium, covering every conventional thickness in their orders.
+  * Repeat positioning of ±0.02 mm, with holes and intersecting tube cuts formed in one pass, cutting polishing labour by about 70%.
+  * CE certified with a wide-voltage 3-phase 380V/50Hz input that stays stable within ±10% grid fluctuation, matching Spanish factory power.
+  * MAX source, Raytools head and Leadshine servos, with standard spare parts stocked in European warehouses; consumable cost drops about 60% against plasma.
+
+### Key specifications
+
+Laser power| 3000W MAX fibre laser source
+---|---
+Sheet working size| 3000 × 1500 mm
+Tube processing length| 6 m standard, round and square tube
+Materials| Carbon steel, stainless steel, galvanized sheet, aluminium alloy
+Positioning accuracy| ±0.03 mm
+Repeat positioning accuracy| ±0.02 mm
+Drive| Leadshine servo motors, dual rack and pinion
+CNC system| Raytools intelligent cutting system, DXF and AI import
+Cutting head| Raytools auto-focus
+Power supply| 3-phase AC 380V / 50Hz
+Tube clamping| Front and rear dual pneumatic self-centring chucks
+
+### Questions the customer asked
+
+**Q: Can it cut sheet and tube at the same time?**
+No, it is a switchable all-in-one machine. The tube chuck retracts during sheet cutting. It suits a factory where sheet is the main work and tube is secondary, without buying two machines.
+
+**Q: Can the 6 m tube length be extended?**
+The standard model takes 6 m tubes, and 3 m or 9 m custom tube racks are available for long structural work.
+
+**Q: Does it come with CE documents, and will customs be a problem?**
+Complete CE and RoHS certificates are supplied with English documents and machine nameplates, so the machine clears Spanish ports and can be filed locally without issue.
+
+**Q: What consumables does it need, and can they be bought in Spain?**
+Nozzles, protective lenses, coolant and fibre laser protective sleeves. They are standard parts available at local laser accessory suppliers, or we ship a bulk set with the machine.
+
+**Q: Can it cut special-shaped tubes?**
+Yes, but that requires a system modification.
+
+### A two-line alternative
+
+For a factory running balanced sheet and tube volumes in parallel, the split setup of an RCL3015-3000W flatbed plus an RCL2400-3000W tube cutter runs both lines at once and roughly doubles total capacity.
+
+**ROCTECH note**
+
+ROCTECH replaced two machines, halved the footprint, and cut polishing 70% — and the CE paperwork cleared Spanish customs without a fight. That combination is the whole sell for European fabricators: one machine instead of two, consumables down ~60% vs plasma, and the certifications (CE, RoHS, English docs) handled up front. When a Spanish shop asks "will this pass customs and inspection?" the answer is in the spec table above.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/西班牙激光案例/ · docs in that folder.
+
+[← Back to all cases](cases/)
+
+
+===== FILE: cases/italy.md =====
+
+---
+title: "RCL3015-3000W with Cover and Push-Pull Table: An Italian Sheet-Metal Shop"
+type: case
+country: Italy
+country_code: IT
+region: Europe
+category: metal-laser
+industry: "Sheet-metal, industrial / architectural"
+customer: "Sheet-metal fabrication shop, Italy"
+product: RCL3015-3000W with full enclosure and push-pull table
+year: ""
+tags: [Laser 3000W, Full enclosure, FDA / CE]
+outcome: "Fixed speed, scrap, and EU compliance issues"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
+🇮🇹
+
+## RCL3015-3000W with Cover and Push-Pull Table: An Italian Sheet-Metal Shop
+
+Industrial / architectural · EU compliance
+
+`Laser 3000W` `Full enclosure` `FDA / CE`
+
+**Country**: Italy
+
+**Industry**: Sheet-metal fabrication, industrial and architectural
+
+**Work**: 1-12 mm stainless for furniture parts and enclosure panels
+
+**Machine**: RCL3015-3000W, full cover, push-pull table
+
+### The customer and the problems
+
+The shop cuts stainless from 1 mm up to 12 mm into custom furniture components and industrial enclosure panels. Three issues were holding it back.
+
+  * The plasma cutter was too slow on 3-6 mm stainless, which sat right in the middle of their work.
+  * Cut quality was inconsistent, with dross and jagged edges that meant heavy secondary finishing.
+  * The labour inspectorate had flagged the open machine for not meeting EU CE and FDA safety expectations, and fines were a real risk.
+  * New operators kept misplacing the cutting start point and wasting the first sheet of the day.
+  * The old generic servos and rails broke down often and delayed deliveries to a key automotive customer.
+
+### What we recommended
+
+The RCL3015-3000W with a full cover and push-pull table.
+
+  * A 3000W Raytools source cuts 0-12 mm stainless about three times faster than plasma, with a nitrogen-assisted oxide-free edge.
+  * The 3000 × 1500 mm travel matches standard EU sheet sizes exactly, so sheets go straight on without extra shearing.
+  * The full enclosure and FDA/CE compliance clear the Italian labour inspection and protect the operators.
+  * The Raytools control panel with a border preview lets operators check the cutting path before starting, so the first sheet is not wasted.
+  * Shimpo reducers, Taiwan helical rack and rails, and Schneider electrics keep the machine running through continuous shifts.
+
+### Key specifications
+
+Model| RCL3015-3000W, cover and push-pull table
+---|---
+Travel size| 3000 × 1500 mm
+Laser source| 3000W Max fibre laser, Raytools
+Laser head| Raytools auto-focus
+Control system| Raytools CNC controller
+Drive| Leadshine servo drive, Shimpo reducer
+Guide rails| Taiwan square rails, helical rack and pinion, OEM for ROCTECH
+Electrical| Schneider (France)
+Cooling| S&A 3000W water chiller
+Fume extraction| Integrated blower with hoses
+Safety standard| FDA and CE compliant, full enclosure
+Max cutting speed| Up to 50 m/min
+Positioning accuracy| ±0.03 mm/m
+
+### Questions the customer asked
+
+**Q: Can this machine cut 20 mm stainless steel?**
+Yes, with oxygen assist and a slower speed. If cuts above 15 mm are frequent, a 6000W model is the better choice.
+
+**Q: The parameters mention Taiwan rails OEM for Roclas. Are they genuine?**
+They are made by the same Taiwanese foundry to ROCTECH specifications and quality control, so performance is identical.
+
+**Q: Does the push-pull table need a special foundation?**
+No. The frame is pre-levelled and just sits on a flat industrial concrete floor.
+
+**Q: What happens if the fume extractor fails mid-cut?**
+The Raytools control detects the airflow loss and pauses the cut automatically to protect the optics.
+
+**Q: Is the software available in Italian?**
+Yes, the Raytools system supports Italian, English and Chinese.
+
+**Q: Do you supply EU-compliant plugs?**
+Yes, the machine ships with Schneider components and standard Schuko/CE plug configuration.
+
+**Q: How long does a table swap take?**
+About 30 seconds, using the pneumatic locking mechanism.
+
+**Q: What is the power draw at full load?**
+Roughly 12-15 kW/h including the chiller and fume extractor.
+
+**Q: Can it cut aluminium?**
+Yes, up to 8 mm with nitrogen and a coated protective lens that is included in the kit.
+
+**Q: Why does Italy need FDA compliance?**
+The FDA laser-safety glass meets the strictest CE requirements, so the machine passes Italian labour inspections without a problem.
+
+### Lower-cost alternatives
+
+Model| Key difference| Best for
+---|---|---
+RCL3015-2000W| 2000W, standard cover, no push-pull table| Lower budgets cutting mainly 6 mm stainless and below
+RCL3015-3000W Eco| No cover, curtain only, no push-pull table, generic reducer| Lowest upfront cost, night-shift shops with light traffic
+
+**ROCTECH note**
+
+ROCTECH closed three gaps at once for this Italian shop: plasma was too slow, scrap from operator error was costing sheets, and the open machine was a fine waiting to happen. The RCL3015-3000W with full enclosure and FDA/CE glass cleared the labour inspection, the border preview stopped the wasted first sheet, and the build (Shimpo, Schneider, Taiwan rails to ROCTECH spec) held up through continuous shifts. For any EU buyer, that compliance-and-reliability combo is the ROCTECH argument — and it's exactly why the FDA glass matters even in Italy.
+
+Original case: 若泰机器资料/案例文件_整理/激光案例/意大利激光案例/ · docs in that folder.
+
+[← Back to all cases](cases/)
