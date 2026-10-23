@@ -1,3 +1,13 @@
+---
+title: Application Industries
+type: topic
+section: industries
+summary: "Industry solutions: woodworking, metal fabrication, signage, aerospace, automotive, construction."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Industry Solutions
 
 Eight materials and industries ROCTECH handles, each one tied to a customer who actually did it.
