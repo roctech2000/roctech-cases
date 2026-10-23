@@ -1,3 +1,21 @@
+---
+title: 3015 Sheet-and-Tube Fibre Laser for a UK Metal Processing Plant
+type: case
+country: United Kingdom
+country_code: GB
+region: Europe
+category: metal-laser
+industry: Metal processing plant
+customer: "Metal processing plant, UK"
+product: 3015 integrated sheet-and-tube fibre laser (3000W)
+year: ""
+tags: [Laser 3000W, Sheet-and-tube]
+outcome: One machine did the job of two
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇬🇧
 
 ## 3015 Sheet-and-Tube Fibre Laser for a UK Metal Processing Plant
