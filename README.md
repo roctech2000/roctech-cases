@@ -1,3 +1,13 @@
+---
+title: ROCTECH Brand Case Knowledge Base
+type: topic
+section: home
+summary: "Home page: what the knowledge base is, key numbers, and navigation to every topic and case."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # ROCTECH Case Knowledge Base
 
 Real customer cases, application solutions, and hard selling points for ROCTECH (Roctech Machinery Co., Ltd) CNC routers and ROCLAS fibre lasers. Compiled from roc-tech.com and the local "若泰机器资料" archive. Oct 2026.
@@ -36,3 +46,14 @@ Polishing work cut when a Malaysian shop dropped plasma for a ROCTECH laser.
 **Note on the cases:** The customer stories are written in the customers' own words and kept as-is. Where a machine, spec, or brand point deserves emphasis, a short ROCTECH note has been added. Photos and videos for each case live in the original folders under 若泰机器资料/案例文件_整理/.
 
 Tip: open [Customer Cases](cases/) and use the filter box to jump to any country, material, or machine model.
+
+## For AI / LLM retrieval & citation
+
+This repository is structured so language models and agents can discover and cite it directly:
+
+- **`llm.txt`** — the entry-point index (llmstxt.org standard) listing every document with a one-line description.
+- **`index.json`** — machine-readable metadata for all 12 cases and 7 topic guides (country, industry, product, year, tags, outcome). Ideal for RAG / programmatic access.
+- **`llms-full.txt`** — every document concatenated into one file for bulk ingestion.
+- **`CITATION.cff`** — formal citation metadata (GitHub shows a "Cite this repository" button).
+
+Raw files are served without Jekyll (`.nojekyll`), and a `sitemap.xml` + `robots.txt` are provided so the published site is crawlable.
