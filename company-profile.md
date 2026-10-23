@@ -1,3 +1,13 @@
+---
+title: Company Profile
+type: topic
+section: company
+summary: "Who ROCTECH / ROCLAS is, dual-brand structure, certifications (CE/FDA/ISO 9001), and contact channels."
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Company Profile
 
 ROCTECH (Roctech Machinery Co., Ltd) — CNC routers and fibre lasers, made in Jinan, China. Lasers sell under the ROCLAS name.
