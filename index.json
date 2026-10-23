@@ -1,0 +1,321 @@
+{
+  "repository": "roctech2000/roctech-cases",
+  "title": "ROCTECH Brand Case Knowledge Base",
+  "description": "ROCTECH / ROCLAS brand case studies and reference knowledge, converted to Markdown for AI retrieval and citation.",
+  "language": "en",
+  "generated": "2026-10-23",
+  "license": "MIT",
+  "counts": {
+    "cases": 12,
+    "topics": 7,
+    "countries": 12
+  },
+  "topics": [
+    {
+      "slug": "company-profile",
+      "title": "Company Profile",
+      "section": "company",
+      "summary": "Who ROCTECH / ROCLAS is, dual-brand structure, certifications (CE/FDA/ISO 9001), and contact channels.",
+      "path": "company-profile.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/company-profile.md"
+    },
+    {
+      "slug": "product-solutions",
+      "title": "Product & Solution Map",
+      "section": "products",
+      "summary": "13 product lines (CNC routers, fibre lasers, sheet-and-tube, plasma, HDPE lines) in a comparison table.",
+      "path": "product-solutions.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/product-solutions.md"
+    },
+    {
+      "slug": "application-industries",
+      "title": "Application Industries",
+      "section": "industries",
+      "summary": "Industry solutions: woodworking, metal fabrication, signage, aerospace, automotive, construction.",
+      "path": "application-industries.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/application-industries.md"
+    },
+    {
+      "slug": "faq-selling-points",
+      "title": "Selling Points & FAQ",
+      "section": "faq",
+      "summary": "Quantified selling points and frequently asked questions with evidence from real installs.",
+      "path": "faq-selling-points.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/faq-selling-points.md"
+    },
+    {
+      "slug": "seo-keywords",
+      "title": "SEO & Ad Keywords",
+      "section": "seo",
+      "summary": "Target keywords for ads and SEO across markets and product categories.",
+      "path": "seo-keywords.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/seo-keywords.md"
+    },
+    {
+      "slug": "technical-notes",
+      "title": "Technical Notes",
+      "section": "technical",
+      "summary": "Deep notes on vacuum tables, 5-axis heads, tube laser cutting, and common pitfalls.",
+      "path": "technical-notes.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/technical-notes.md"
+    },
+    {
+      "slug": "data-sources-scope",
+      "title": "Data Sources & Scope",
+      "section": "data",
+      "summary": "Where the case data comes from, what is verified, and known gaps / caveats.",
+      "path": "data-sources-scope.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/data-sources-scope.md"
+    }
+  ],
+  "cases": [
+    {
+      "slug": "usa-reno",
+      "title": "A 2017 ROCTECH RC1530S-ATC Still Running at a Nevada Makerspace",
+      "country": "United States",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "region": "North America",
+      "category": "woodworking",
+      "industry": "Makerspace / shared woodworking",
+      "customer": "The Generator Community Maker Space, Reno, Nevada",
+      "product": "RC1530S-ATC wood CNC router with ATC",
+      "year": 2017,
+      "tags": [
+        "Woodworking",
+        "Makerspace",
+        "Shared equipment"
+      ],
+      "outcome": "Shared public machine with many operators, still accurate after 9 years",
+      "path": "cases/usa-reno.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/usa-reno.md"
+    },
+    {
+      "slug": "romania",
+      "title": "Ten Years On: A Romanian Workshop Still Cutting with ROCTECH",
+      "country": "Romania",
+      "country_code": "RO",
+      "flag": "🇷🇴",
+      "region": "Europe",
+      "category": "woodworking",
+      "industry": "Woodworking workshop",
+      "customer": "Woodworking workshop, Romania",
+      "product": "ROCTECH woodworking machines",
+      "year": 2016,
+      "tags": [
+        "Woodworking",
+        "Durability proof"
+      ],
+      "outcome": "10 years later, still in daily production",
+      "path": "cases/romania.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/romania.md"
+    },
+    {
+      "slug": "chile",
+      "title": "A Trusted Partner in Chile: Guillermo's HDPE Processing Line",
+      "country": "Chile",
+      "country_code": "CL",
+      "flag": "🇨🇱",
+      "region": "South America",
+      "category": "plastics",
+      "industry": "HDPE / plastics processing",
+      "customer": "Guillermo, production shop, Chile",
+      "product": "HDPE processing line",
+      "year": null,
+      "tags": [
+        "HDPE",
+        "Repeat buyer"
+      ],
+      "outcome": "Runs clean and steady; customer coming back for more",
+      "path": "cases/chile.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/chile.md"
+    },
+    {
+      "slug": "ireland",
+      "title": "From FANUC Routers to ROCLAS Lasers: A Long-Time Customer in Ireland",
+      "country": "Ireland",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "region": "Europe",
+      "category": "woodworking-to-laser",
+      "industry": "Woodworking then laser",
+      "customer": "Long-standing woodworking customer, Ireland",
+      "product": "3000W ROCLAS laser",
+      "year": null,
+      "tags": [
+        "Woodworking",
+        "Laser",
+        "Repeat buyer"
+      ],
+      "outcome": "Cross-category repeat buyer added a laser to the workshop",
+      "path": "cases/ireland.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/ireland.md"
+    },
+    {
+      "slug": "algeria",
+      "title": "RCL2040-EX-3K Laser Cutter: An Algerian Fabricator Moves Up to a 2 x 4 m Exchange Table",
+      "country": "Algeria",
+      "country_code": "DZ",
+      "flag": "🇩🇿",
+      "region": "Africa",
+      "category": "metal-laser",
+      "industry": "Metal fabrication",
+      "customer": "Metal fabrication shop, Algeria",
+      "product": "RCL2040-EX-3K enclosed fibre laser, shuttle table (3000W, 2x4 m)",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Exchange table",
+        "Enclosed"
+      ],
+      "outcome": "Replaced old laser; loads material while it cuts",
+      "path": "cases/algeria.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/algeria.md"
+    },
+    {
+      "slug": "uk",
+      "title": "3015 Sheet-and-Tube Fibre Laser for a UK Metal Processing Plant",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "region": "Europe",
+      "category": "metal-laser",
+      "industry": "Metal processing plant",
+      "customer": "Metal processing plant, UK",
+      "product": "3015 integrated sheet-and-tube fibre laser (3000W)",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Sheet-and-tube"
+      ],
+      "outcome": "One machine did the job of two",
+      "path": "cases/uk.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/uk.md"
+    },
+    {
+      "slug": "russia",
+      "title": "One Machine for Sheet and Tube: A Russian Craft-Metal Workshop's 3015 Laser",
+      "country": "Russia",
+      "country_code": "RU",
+      "flag": "🇷🇺",
+      "region": "Europe / Asia",
+      "category": "metal-laser",
+      "industry": "Craft metal / decorative",
+      "customer": "Metal crafts manufacturer, Russia",
+      "product": "3015 integrated sheet-and-tube fibre laser (3000W)",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Sheet-and-tube",
+        "Low temperature"
+      ],
+      "outcome": "Half the floor space; runs down to -10 C",
+      "path": "cases/russia.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/russia.md"
+    },
+    {
+      "slug": "malaysia",
+      "title": "RCL3015-3000W: How a Malaysian Elevator Fabricator Left Plasma Behind",
+      "country": "Malaysia",
+      "country_code": "MY",
+      "flag": "🇲🇾",
+      "region": "Asia",
+      "category": "metal-laser",
+      "industry": "Elevator sheet-metal",
+      "customer": "Tony, elevator sheet-metal factory, Malaysia",
+      "product": "RCL3015-3000W fibre laser",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Replaced plasma",
+        "Higher output"
+      ],
+      "outcome": "Dropped plasma; ~80% less polishing, 80+ sets/day",
+      "path": "cases/malaysia.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/malaysia.md"
+    },
+    {
+      "slug": "mexico",
+      "title": "6000W Fibre Laser for a Mexican Metal Fabrication Shop",
+      "country": "Mexico",
+      "country_code": "MX",
+      "flag": "🇲🇽",
+      "region": "North America",
+      "category": "metal-laser",
+      "industry": "Metal fabrication",
+      "customer": "Metal fabrication shop, Mexico",
+      "product": "6000W fibre laser, 1500 x 3000 mm",
+      "year": null,
+      "tags": [
+        "Laser 6000W",
+        "Medium/thick plate"
+      ],
+      "outcome": "Faster on thick plate, no extra labour",
+      "path": "cases/mexico.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/mexico.md"
+    },
+    {
+      "slug": "uruguay",
+      "title": "RC3015L 3000W: A Compact Fibre Laser for a Uruguayan Sheet-Metal Shop",
+      "country": "Uruguay",
+      "country_code": "UY",
+      "flag": "🇺🇾",
+      "region": "South America",
+      "category": "metal-laser",
+      "industry": "Small sheet-metal shop",
+      "customer": "Small sheet-metal shop, Uruguay",
+      "product": "RC3015L 3000W open fibre laser (3000 x 1500 mm) + lifter arm",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Open type",
+        "One-person loading"
+      ],
+      "outcome": "Open type, low cost, one-person loading",
+      "path": "cases/uruguay.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/uruguay.md"
+    },
+    {
+      "slug": "spain",
+      "title": "RC3015T-3000W: Sheet and Tube in One Machine for a Spanish Fabricator",
+      "country": "Spain",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "region": "Europe",
+      "category": "metal-laser",
+      "industry": "Steel-structure fabrication",
+      "customer": "Metal and steel-structure fabricator, Spain",
+      "product": "RC3015T-3000W combined sheet-and-tube fibre laser",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Sheet-and-tube",
+        "CE"
+      ],
+      "outcome": "Replaced two machines; ~70% less polishing",
+      "path": "cases/spain.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/spain.md"
+    },
+    {
+      "slug": "italy",
+      "title": "RCL3015-3000W with Cover and Push-Pull Table: An Italian Sheet-Metal Shop",
+      "country": "Italy",
+      "country_code": "IT",
+      "flag": "🇮🇹",
+      "region": "Europe",
+      "category": "metal-laser",
+      "industry": "Sheet-metal, industrial / architectural",
+      "customer": "Sheet-metal fabrication shop, Italy",
+      "product": "RCL3015-3000W with full enclosure and push-pull table",
+      "year": null,
+      "tags": [
+        "Laser 3000W",
+        "Full enclosure",
+        "FDA / CE"
+      ],
+      "outcome": "Fixed speed, scrap, and EU compliance issues",
+      "path": "cases/italy.md",
+      "url": "https://raw.githubusercontent.com/roctech2000/roctech-cases/main/cases/italy.md"
+    }
+  ]
+}
