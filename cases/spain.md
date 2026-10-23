@@ -1,3 +1,21 @@
+---
+title: "RC3015T-3000W: Sheet and Tube in One Machine for a Spanish Fabricator"
+type: case
+country: Spain
+country_code: ES
+region: Europe
+category: metal-laser
+industry: Steel-structure fabrication
+customer: "Metal and steel-structure fabricator, Spain"
+product: RC3015T-3000W combined sheet-and-tube fibre laser
+year: ""
+tags: [Laser 3000W, Sheet-and-tube, CE]
+outcome: "Replaced two machines; ~70% less polishing"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇪🇸
 
 ## RC3015T-3000W: Sheet and Tube in One Machine for a Spanish Fabricator
