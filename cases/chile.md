@@ -1,3 +1,21 @@
+---
+title: "A Trusted Partner in Chile: Guillermo's HDPE Processing Line"
+type: case
+country: Chile
+country_code: CL
+region: South America
+category: plastics
+industry: HDPE / plastics processing
+customer: "Guillermo, production shop, Chile"
+product: HDPE processing line
+year: ""
+tags: [HDPE, Repeat buyer]
+outcome: Runs clean and steady; customer coming back for more
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇨🇱
 
 ## A Trusted Partner in Chile: Guillermo's HDPE Processing Line
