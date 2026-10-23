@@ -1,3 +1,21 @@
+---
+title: "From FANUC Routers to ROCLAS Lasers: A Long-Time Customer in Ireland"
+type: case
+country: Ireland
+country_code: IE
+region: Europe
+category: woodworking-to-laser
+industry: Woodworking then laser
+customer: "Long-standing woodworking customer, Ireland"
+product: 3000W ROCLAS laser
+year: ""
+tags: [Woodworking, Laser, Repeat buyer]
+outcome: Cross-category repeat buyer added a laser to the workshop
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇮🇪
 
 ## From FANUC Routers to ROCLAS Lasers: A Long-Time Customer in Ireland
