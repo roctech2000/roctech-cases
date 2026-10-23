@@ -1,3 +1,21 @@
+---
+title: A 2017 ROCTECH RC1530S-ATC Still Running at a Nevada Makerspace
+type: case
+country: United States
+country_code: US
+region: North America
+category: woodworking
+industry: Makerspace / shared woodworking
+customer: "The Generator Community Maker Space, Reno, Nevada"
+product: RC1530S-ATC wood CNC router with ATC
+year: 2017
+tags: [Woodworking, Makerspace, Shared equipment]
+outcome: "Shared public machine with many operators, still accurate after 9 years"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇺🇸
 
 ## A 2017 ROCTECH RC1530S-ATC Still Running at a Nevada Makerspace
