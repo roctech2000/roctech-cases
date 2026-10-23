@@ -1,3 +1,13 @@
+---
+title: Customer Cases Index
+type: topic
+section: cases-index
+summary: Table of all 12 customer cases across 12 countries with one-line outcomes.
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 # Customer Cases
 
 12 named customers across 12 countries. 4 woodworking/plastics, 8 metal lasers. Each story is kept in the customer's own words, with a short ROCTECH note added.
