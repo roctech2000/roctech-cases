@@ -1,31 +1,38 @@
-# ROCTECH Brand Case Studies
+# ROCTECH Case Knowledge Base
 
-A curated collection of brand case studies for **ROCTECH**.
+Real customer cases, application solutions, and hard selling points for ROCTECH (Roctech Machinery Co., Ltd) CNC routers and ROCLAS fibre lasers. Compiled from roc-tech.com and the local "若泰机器资料" archive. Oct 2026.
 
-This repository documents real-world projects, campaigns, and solutions delivered under the ROCTECH brand — covering background, challenges, approach, and outcomes — so the work can be showcased, reused, and continuously improved.
+This is a working knowledge base, not a brochure. It pulls together the things sales and support actually need: who the customers are, what machine they bought, what problem they had, and what changed after. The 12 customer cases are kept in their original wording, with a short ROCTECH note added to each. The rest is arranged so you can find a proof point fast.
 
-## Repository structure
+## What's inside
 
-```
-roctech-cases/
-├── README.md            # This file
-├── LICENSE              # MIT
-├── .gitignore
-└── cases/               # All case studies live here
-    ├── README.md        # How to write a case
-    ├── _template.md     # Copy this to start a new case
-    └── <case-slug>.md   # One file per case
-```
+- [Company Profile](company-profile.md) — What ROCTECH makes, certifications, contact
+- [Product & Solution Map](product-solutions.md) — 13 product lines mapped to real models
+- [Industry Solutions](application-industries.md) — 8 industries, each tied to a real case
+- [Customer Cases](cases/) — 12 named customers across 12 countries
+- [Selling Points & FAQ](faq-selling-points.md) — Quantified proof: accuracy, savings, uptime
+- [Buying / SEO Keywords](seo-keywords.md) — Keyword templates for ads and landing pages
+- [Technical Notes](technical-notes.md) — Vacuum tables, 5-axis rigidity, tube lasers
+- [Sources & Gaps](data-sources-scope.md) — Where the data came from, what's missing
 
-## How to add a case
+## The numbers at a glance
 
-1. Copy `cases/_template.md` to `cases/<your-case-slug>.md`.
-2. Fill in every section.
-3. Add a one-line summary to the case index in `cases/README.md`.
-4. Open a pull request (or commit directly).
+### 15 years
 
-See `cases/README.md` for the full writing guide.
+Building CNC routers and lasers. Certified to ISO 9001 (2018) and CE (2014).
 
-## License
+### 12 countries
 
-Released under the MIT License — see [LICENSE](LICENSE).
+Documented customer cases across 4 continents: woodworking, plastics, and metal lasers.
+
+### 10 years
+
+Longest running machine in the case files (Romania, 2016). Still in daily use.
+
+### ~80%
+
+Polishing work cut when a Malaysian shop dropped plasma for a ROCTECH laser.
+
+**Note on the cases:** The customer stories are written in the customers' own words and kept as-is. Where a machine, spec, or brand point deserves emphasis, a short ROCTECH note has been added. Photos and videos for each case live in the original folders under 若泰机器资料/案例文件_整理/.
+
+Tip: open [Customer Cases](cases/) and use the filter box to jump to any country, material, or machine model.
