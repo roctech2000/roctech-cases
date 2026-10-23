@@ -1,3 +1,21 @@
+---
+title: "Ten Years On: A Romanian Workshop Still Cutting with ROCTECH"
+type: case
+country: Romania
+country_code: RO
+region: Europe
+category: woodworking
+industry: Woodworking workshop
+customer: "Woodworking workshop, Romania"
+product: ROCTECH woodworking machines
+year: 2016
+tags: [Woodworking, Durability proof]
+outcome: "10 years later, still in daily production"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇷🇴
 
 ## Ten Years On: A Romanian Workshop Still Cutting with ROCTECH
