@@ -1,3 +1,21 @@
+---
+title: "RCL2040-EX-3K Laser Cutter: An Algerian Fabricator Moves Up to a 2 x 4 m Exchange Table"
+type: case
+country: Algeria
+country_code: DZ
+region: Africa
+category: metal-laser
+industry: Metal fabrication
+customer: "Metal fabrication shop, Algeria"
+product: "RCL2040-EX-3K enclosed fibre laser, shuttle table (3000W, 2x4 m)"
+year: ""
+tags: [Laser 3000W, Exchange table, Enclosed]
+outcome: Replaced old laser; loads material while it cuts
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇩🇿
 
 ## RCL2040-EX-3K Laser Cutter: An Algerian Fabricator Moves Up to a 2 × 4 m Exchange Table
