@@ -1,3 +1,21 @@
+---
+title: "One Machine for Sheet and Tube: A Russian Craft-Metal Workshop's 3015 Laser"
+type: case
+country: Russia
+country_code: RU
+region: Europe / Asia
+category: metal-laser
+industry: Craft metal / decorative
+customer: "Metal crafts manufacturer, Russia"
+product: 3015 integrated sheet-and-tube fibre laser (3000W)
+year: ""
+tags: [Laser 3000W, Sheet-and-tube, Low temperature]
+outcome: Half the floor space; runs down to -10 C
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇷🇺
 
 ## One Machine for Sheet and Tube: A Russian Craft-Metal Workshop's 3015 Laser
