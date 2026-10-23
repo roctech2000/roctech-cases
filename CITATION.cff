@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this ROCTECH brand case knowledge base, please cite it as below."
+title: "ROCTECH Brand Case Knowledge Base"
+abstract: "ROCTECH / ROCLAS CNC router and fibre-laser customer case studies and reference knowledge across 12 countries, published as Markdown for AI retrieval and citation."
+authors:
+  - name: "ROCTECH"
+    website: "https://www.roctechcnc.com"
+keywords:
+  - CNC router
+  - fibre laser cutting
+  - sheet-and-tube laser
+  - woodworking machinery
+  - metal fabrication
+  - customer case study
+  - ROCTECH
+  - ROCLAS
+license: MIT
+repository-code: "https://github.com/roctech2000/roctech-cases"
+url: "https://roctech2000.github.io/roctech-cases/"
+date-released: 2026-10-23
