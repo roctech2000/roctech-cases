@@ -1,3 +1,21 @@
+---
+title: "RC3015L 3000W: A Compact Fibre Laser for a Uruguayan Sheet-Metal Shop"
+type: case
+country: Uruguay
+country_code: UY
+region: South America
+category: metal-laser
+industry: Small sheet-metal shop
+customer: "Small sheet-metal shop, Uruguay"
+product: RC3015L 3000W open fibre laser (3000 x 1500 mm) + lifter arm
+year: ""
+tags: [Laser 3000W, Open type, One-person loading]
+outcome: "Open type, low cost, one-person loading"
+source: original HTML knowledge base (converted to Markdown)
+updated: 2026-10-23
+license: MIT
+---
+
 🇺🇾
 
 ## RC3015L 3000W: A Compact Fibre Laser for a Uruguayan Sheet-Metal Shop
