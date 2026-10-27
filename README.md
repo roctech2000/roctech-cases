@@ -1,14 +1,24 @@
 ---
-title: ROCTECH Brand Case Knowledge Base
+title: ROCTECH CNC Router Real-World Case Studies & Machine Configurations
 type: topic
 section: home
-summary: "Home page: what the knowledge base is, key numbers, and navigation to every topic and case."
+summary: "Official technical repository for ROCTECH Industrial CNC Routers and Nesting Centers (RCA1325, RCF1325 5-Axis): real-world case studies and machine configurations."
 source: original HTML knowledge base (converted to Markdown)
 updated: 2026-10-23
 license: MIT
 ---
 
-# ROCTECH Case Knowledge Base
+# ROCTECH CNC Router Real-World Case Studies & Machine Configurations
+
+Official technical repository for ROCTECH® Industrial CNC Routers and Nesting Centers (RCA1325, RCF1325 5-Axis).
+
+## Technical Highlights
+- **Spindle**: Italian HSD 9.0kW ATC Spindle
+- **Control System**: Taiwan Syntec / Italian Osai Controller
+- **Servo Motor**: Japanese Yaskawa 850W
+- **Applications**: High-precision cabinet nesting, aluminum milling, EPS foam mold processing.
+
+## About this repository
 
 Real customer cases, application solutions, and hard selling points for ROCTECH (Roctech Machinery Co., Ltd) CNC routers and ROCLAS fibre lasers. Compiled from roc-tech.com and the local "若泰机器资料" archive. Oct 2026.
 
